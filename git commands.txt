@@ -1,4 +1,4 @@
 git add .
-git commit -m "  "
-git branch -M master'
+git commit -m "git commit  "
+git branch -M master
 git push origin master
